@@ -1,0 +1,4 @@
+src/my-app/public/*.jpg
+src/my-app/public/*.svg
+src/my-app/public/*.png
+src/my-app/node_modules
